@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "1 СЛАЙД",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -920,10 +920,10 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "left",
-              "color": "#232323"
+              "color": "#ffb47f"
             },
             "H1": {
-              "color": "#232323"
+              "color": "#ffb47f"
             }
           },
           "_name": "header6",
