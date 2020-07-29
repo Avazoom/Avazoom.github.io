@@ -920,10 +920,10 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "left",
-              "color": "#ffb47f"
+              "color": "#232323"
             },
             "H1": {
-              "color": "#ffb47f"
+              "color": "#232323"
             }
           },
           "_name": "header6",
